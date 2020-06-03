@@ -1,3 +1,13 @@
+## Testing App
+This is a small create-react-app to learn react testing.
+
+run `npm test` then `a` to run all tests
+
+use `npm test -- --coverage` to display table for code coverage
+
+
+
+## Default create-react-app MD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -16,8 +26,6 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-use `npm test -- --coverage` to display table for code coverage 
 
 ### `npm run build`
 
